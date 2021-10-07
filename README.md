@@ -1,11 +1,14 @@
 # IOOF Robo Challenge
 Tested with MSVC (in Visual Studio 2019) and g++
 
-# BUILD (for g++)
+## Notes
+- Robots do not collide with one another by design.
+
+## BUILD (for g++)
 g++ ioof.cpp -o app
 
-# RUN
+## RUN
 ./app
 
-# Binaries
+## Binaries
 - /bin/app.exe - Windows executable available
